@@ -67,7 +67,7 @@ maven添加插件
 
 点击
 
-![1550153428801](C:\Users\陈勇\AppData\Roaming\Typora\typora-user-images\1550153428801.png)
+![1550153428801](./imgs/1550153428801.png)
 
 在target下可以找到打包后的jar
 
